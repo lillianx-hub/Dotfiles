@@ -1,0 +1,3 @@
+[submodule "zsh/zsh-autosuggestion"]
+	path = zsh/zsh-autosuggestion
+	url = https://github.com/lillianx-hub/Dotfiles
